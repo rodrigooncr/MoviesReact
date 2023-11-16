@@ -1,0 +1,13 @@
+.carousel-slider{
+    height: 40%;
+}
+.carousel .slide img {
+    height: 400px;
+}
+
+
+.cointaner-carousel{
+    width: 20vw;
+    margin: 0 auto;
+
+}
